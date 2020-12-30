@@ -1,0 +1,17 @@
+@import './fonts.scss';
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  background: #242424;
+	overflow-x: hidden;
+	font-family: 'Euclid Circular A', 'Avenir', 'Helvetica', 'Arial', 'sans-serif';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+	color: #00E599;
+}
+

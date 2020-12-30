@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="452px" height="294px" viewBox="0 0 452 294" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>visual token designer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.0967822669" y="0.0915954911" width="455.080645" height="248.081181"></rect>
+        <rect id="path-3" x="0.0967822669" y="0.0915954911" width="455.080645" height="248.081181"></rect>
+        <rect id="path-5" x="0.0967822669" y="0.0915954911" width="455.080645" height="248.081181"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.15">
+        <g id="Desktop-HD" transform="translate(-120.000000, -4011.000000)">
+            <g id="visual-token-designer" transform="translate(19.000000, 3918.000000)">
+                <g id="编组-5">
+                    <g id="Fill-1" transform="translate(125.000000, 228.500000) rotate(-90.000000) translate(-125.000000, -228.500000) translate(-103.000000, 104.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="蒙版" fill="#D8D8D8" opacity="0" xlink:href="#path-1"></use>
+                        <path d="M216.424636,388.617558 C136.708838,388.617558 72.0859259,324.237984 72.0859259,244.822355 C72.0859259,165.406727 136.708838,101.027152 216.424636,101.027152 C296.140434,101.027152 360.763345,165.406727 360.763345,244.822355 C360.763345,324.237984 296.140434,388.617558 216.424636,388.617558 Z" fill="#00AF92" mask="url(#mask-2)"></path>
+                    </g>
+                    <g id="Fill-1" transform="translate(276.000000, 228.500000) rotate(-90.000000) translate(-276.000000, -228.500000) translate(48.000000, 104.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="蒙版" fill="#D8D8D8" opacity="0" xlink:href="#path-3"></use>
+                        <path d="M216.424636,388.617558 C136.708838,388.617558 72.0859259,324.237984 72.0859259,244.822355 C72.0859259,165.406727 136.708838,101.027152 216.424636,101.027152 C296.140434,101.027152 360.763345,165.406727 360.763345,244.822355 C360.763345,324.237984 296.140434,388.617558 216.424636,388.617558 Z" stroke="#00AF92" stroke-width="5" mask="url(#mask-4)"></path>
+                        <rect id="矩形" stroke="#00AF92" stroke-width="5" mask="url(#mask-4)" x="74.2096774" y="246.905904" width="283.677419" height="80.4501845"></rect>
+                    </g>
+                    <g id="Fill-1" transform="translate(429.000000, 228.500000) rotate(-90.000000) translate(-429.000000, -228.500000) translate(201.000000, 104.000000)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <use id="蒙版" fill="#D8D8D8" opacity="0" xlink:href="#path-5"></use>
+                        <path d="M216.424636,388.617558 C136.708838,388.617558 72.0859259,324.237984 72.0859259,244.822355 C72.0859259,165.406727 136.708838,101.027152 216.424636,101.027152 C296.140434,101.027152 360.763345,165.406727 360.763345,244.822355 C360.763345,324.237984 296.140434,388.617558 216.424636,388.617558 Z" stroke="#00AF92" stroke-width="5" mask="url(#mask-6)"></path>
+                        <rect id="矩形" stroke="#00AF92" stroke-width="5" mask="url(#mask-6)" x="74.2096774" y="246.905904" width="283.677419" height="80.4501845"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

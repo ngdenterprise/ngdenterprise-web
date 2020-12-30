@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560px" height="279px" viewBox="0 0 560 279" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>blockchain toolkit</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.14855239">
+        <g id="Desktop-HD" transform="translate(-861.000000, -1308.000000)">
+            <g id="blockchain-toolkit" transform="translate(864.000000, 1311.000000)">
+                <path d="M557,137 C557,212.110471 496.110471,273 421,273 C345.889529,273 285,212.110471 285,137 C285,61.8895285 345.889529,1 421,1 C496.110471,1 557,61.8895285 557,137" id="Fill-1-Copy" fill="#00E599"></path>
+                <path d="M408,137 C408,212.110471 347.110471,273 272,273 C196.889529,273 136,212.110471 136,137 C136,61.8895285 196.889529,1 272,1 C347.110471,1 408,61.8895285 408,137" id="Fill-1-Copy" stroke="#00E599" stroke-width="5"></path>
+                <path d="M272,136 C272,211.110471 211.110471,272 136,272 C60.8895285,272 0,211.110471 0,136 C0,60.8895285 60.8895285,0 136,0 C211.110471,0 272,60.8895285 272,136" id="Fill-1-Copy" stroke="#00E599" stroke-width="5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

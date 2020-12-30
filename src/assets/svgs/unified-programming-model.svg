@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="444px" height="354px" viewBox="0 0 444 354" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>unified programming model</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.15">
+        <g id="Desktop-HD" transform="translate(-832.000000, -4574.000000)">
+            <g id="unified-programming-model" transform="translate(827.000000, 4552.000000)">
+                <polygon id="多边形" fill="#F9FAFA" points="338 166 448.322556 246.154029 406.183089 375.845971 269.816911 375.845971 227.677444 246.154029"></polygon>
+                <path d="M116,169.09017 L8.61637037,247.108944 L49.6332671,373.345971 L182.366733,373.345971 L223.38363,247.108944 L116,169.09017 Z" id="多边形" stroke="#F9FAFA" stroke-width="5"></path>
+                <path d="M228,3.09016994 L120.61637,81.1089437 L161.633267,207.345971 L294.366733,207.345971 L335.38363,81.1089437 L228,3.09016994 Z" id="多边形" stroke="#F9FAFA" stroke-width="5" transform="translate(228.000000, 116.000000) scale(1, -1) translate(-228.000000, -116.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
